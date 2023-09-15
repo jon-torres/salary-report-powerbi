@@ -11,13 +11,16 @@ This project involves the creation of a relational database using Microsoft Azur
 ## Project Workflow
 
 1. **Database Creation**:
+
    - Utilized Microsoft Azure to set up and host a relational database.
    - Designed and structured the database to store relevant employee data.
 
 2. **Data Extraction**:
+
    - Extracted data from the MySQL database using PowerBI.
 
 3. **Data Transformation**:
+
    - Transformed the extracted data to prepare it for analysis.
    - Conducted data cleansing and formatting as needed.
 
@@ -30,6 +33,6 @@ This project involves the creation of a relational database using Microsoft Azur
 
 ## Report Link
 
-You can access the full report [here](insert_link_to_your_report).
+You can access the full report [here](https://jon-torres.github.io/salary-report-powerbi/).
 
 Feel free to explore the report for a more detailed analysis of salary data by department and gender.
